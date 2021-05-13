@@ -1,4 +1,4 @@
-### Hi there 👋
+### Eai, tudo bem? 👋
 
 <!--
 **Elias-Dias-De-Araujo/Elias-Dias-De-Araujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
