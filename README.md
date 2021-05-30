@@ -11,8 +11,8 @@ Oii! eu me chamo Elias Dias, e desde muito cedo sempre tive interesse sobre a á
 
 ## 🤓Algumas poucas curiosidades sobre mim.
 
-- 🧙🏻 Games é a minha segunda paixão
-- 🎬  Adoro ver filmes, séries e animes 
+- 🧙🏻 Jogar games é a minha segunda paixão
+- 🎬 Adoro ver filmes, séries e animes 
 - 💪🏻 Gosto muito de me exercitar e ter um estilo de vida saudável
 
 ## Metas de vida 🧑🏻‍🚀
