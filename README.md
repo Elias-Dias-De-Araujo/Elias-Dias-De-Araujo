@@ -6,7 +6,7 @@ Oii! eu me chamo Elias Dias, e desde muito cedo sempre tive interesse sobre a á
 ## Tecnologias que estou aprendendo 📚
 
 - Node.js
-- React
+- flutter
 - AdonisJS
 
 ## 🤓Algumas poucas curiosidades sobre mim.
