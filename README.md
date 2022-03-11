@@ -3,7 +3,9 @@
 Oii! eu me chamo Elias Dias, e desde muito cedo sempre tive interesse sobre a área de tecnologia, programação em específico, acho fabuloso programar e amo isso, sempre estou a procura de aprender novos conhecimentos, acho que ser sempre constante e curioso são as minhas principais qualidades😉
 
 
-## Tecnologias que estou aprendendo 📚
+## Tecnologias 📚
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
 
 - Node.js
 - flutter
