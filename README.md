@@ -9,9 +9,9 @@ Oii! eu me chamo Elias Dias, e desde muito cedo sempre tive interesse sobre a á
 
 
 <div>
-<a href="https://github.com/Elias_Dias">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elias_Dias&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Elias_Dias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/Elias-Dias-De-Araujo">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elias-Dias-De-Araujo&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Elias-Dias-De-Araujo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 
