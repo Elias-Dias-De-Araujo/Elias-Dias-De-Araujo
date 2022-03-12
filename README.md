@@ -18,3 +18,10 @@ Oii! eu me chamo Elias Dias, e desde muito cedo sempre tive interesse sobre a á
 ## Metas de vida 🧑🏻‍🚀
 
 Conseguir me tornar especialista em uma tecnologia que eu adore trabalhar, no momento tenho em mente javaScript(mas as coisas podem mudar), e ser feliz no meu entorno **profissional** e **pessoal**. 
+
+
+## Contatos 💬
+<div>
+<a href = "mailto:eliasdiasdearaujo2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/elias-dias-7193361b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
