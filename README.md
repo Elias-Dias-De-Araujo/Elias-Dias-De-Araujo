@@ -1,3 +1,5 @@
+<img align="right" width="250px" style="margin-top:-20px" src="https://imgur.com/a/tLutriP">
+
 # Opa, tudo bom?😄
 ## 👨🏻‍💻Um breve resumo sobre quem eu sou. 
 Oii! eu me chamo Elias Dias, e desde muito cedo sempre tive interesse sobre a área de tecnologia, programação em específico, acho fabuloso programar e amo isso, sempre estou a procura de aprender novos conhecimentos, acho que ser sempre constante e curioso são as minhas principais qualidades😉
@@ -15,7 +17,7 @@ Oii! eu me chamo Elias Dias, e desde muito cedo sempre tive interesse sobre a á
 
 
 ## Tecnologias e ferramentas que estudo e utilizo 📚
-
+<img width="300px" align="right" src="https://imgur.com/xMQJuPd">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  width="40" height="40"/>
 
 
