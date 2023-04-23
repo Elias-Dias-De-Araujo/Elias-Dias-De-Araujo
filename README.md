@@ -26,7 +26,7 @@ Oii! eu me chamo Elias Dias, e desde muito cedo sempre tive interesse sobre a á
 
 ## Metas de vida 🧑🏻‍🚀
 
-Conseguir me tornar especialista em uma tecnologia que eu adore trabalhar, no momento tenho em mente javaScript(mas as coisas podem mudar), e ser feliz no meu entorno **profissional** e **pessoal**. 
+Conseguir me tornar especialista em uma tecnologia que eu adore trabalhar, no momento tenho me aperfeiçoado bastante na área de analise de testes que está me atraindo bastante!
 
 
 ## Contatos 💬
